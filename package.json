@@ -1,0 +1,22 @@
+{
+  "name": "parallaxicalparticles",
+  "version": "1.0.0",
+  "description": "A sweet codepen I found, going to play around with it",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSandersius/ParallaxicalParticles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSandersius/ParallaxicalParticles/issues"
+  },
+  "homepage": "https://github.com/JSandersius/ParallaxicalParticles#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
